@@ -1,6 +1,14 @@
 body{
-    background-color: rgb(236, 162, 173);
-    font-family: Playwrite USA Modern, cursive;
-    font-style: normal;
-
+    background-color: rgb(202, 95, 111);
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+header{
+    font-size: 40px;
+    text-align:center;
+}
+.Top1{
+    background-color: rgb(133, 27, 27);
 }
